@@ -26,5 +26,8 @@ Reading RESTful API notation: We want to use the minimum amount of information p
 
 Juan's code used middleware "Morgan" to log the server's interactions.  One line of code to set and listen.
 
+Used middleware "body-parser" to accept form data from POST and parse it into an object.
+Used middleware "method-override" to check for `_method=put` from the form in order to interpret it.  (This is because forms are not able to send anything other than READ or POST through modern browsers.  This is a workaround.)
+
 We worked through each point of the spec and set up the functionality matching the URL.
 

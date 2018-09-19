@@ -18,4 +18,5 @@ This repository contains all of the notes taken by [Danny](https://github.com/St
   * [Day_2](/Week_2/Day_2)
   * [Day_3](/Week_2/Day_3)
 
-
+* [Week 4](/Week_4)
+  * [Day_3](/Week_4/Day_3)
